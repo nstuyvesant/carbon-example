@@ -1,6 +1,6 @@
 <script lang='ts'>
-  import LineChart from '@carbon/charts-svelte/src/LineChart.svelte'
-  // import { LineChart } from '@carbon/charts-svelte' // alternate import also fails
+  // import LineChart from '@carbon/charts-svelte/src/LineChart.svelte'
+  import { LineChart } from '@carbon/charts-svelte' // alternate import also fails
   import type { LineChartOptions } from '@carbon/charts/interfaces'
 
   import '@carbon/charts/styles.css'
