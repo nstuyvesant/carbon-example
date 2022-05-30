@@ -1,7 +1,6 @@
 <script lang='ts'>
-  // import pkg from '@carbon/charts-svelte'
-  // const { LineChart } = pkg
   import LineChart from '@carbon/charts-svelte/src/LineChart.svelte'
+  // import { LineChart } from '@carbon/charts-svelte' // alternate import also fails
   import type { LineChartOptions } from '@carbon/charts/interfaces'
 
   import '@carbon/charts/styles.css'

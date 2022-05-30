@@ -19,7 +19,6 @@
 	},
 	"devDependencies": {
 		"@carbon/charts-svelte": "^1.0.4",
-		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/adapter-node": "next",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "^5.26.0",
@@ -34,7 +33,7 @@
 		"svelte-check": "^2.7.1",
 		"svelte-preprocess": "^4.10.6",
 		"tslib": "^2.4.0",
-		"typescript": "~4.7.2"
+		"typescript": "~4.6.2"
 	},
 	"type": "module"
 }
